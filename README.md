@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/52837649/90435028-64453a80-e09c-11ea-94f2-1f8b28b6e0bd.png)
 
+![image](https://user-images.githubusercontent.com/52837649/90435140-948cd900-e09c-11ea-9d87-51db5d07368d.png)
+
 ## Description
 Beamifi is a chat app that enables remote collaboration through messaging among users. 
 
